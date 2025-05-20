@@ -6,6 +6,7 @@ TagManager:
   tags:
   - collisionTag
   - Ball
+  - DeathTrigger
   layers:
   - Default
   - TransparentFX
